@@ -1,6 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/1179493198318551153/1295315914740465684/logo.png?ex=670e3473&is=670ce2f3&hm=fb37c57b3fc55dd15abff41a3a411eae5c9bb33d360f90852ee9235d87eb9540&"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/your-username">Sudarshan</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/sudarshanxo">Sudarshan</a></h3>
 
 <p align="center">
 <a href="https://github.com/Sudarshanxo"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/sudarshanxo?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
