@@ -72,11 +72,6 @@ const sudarshanInfo = {
   languages: ["HTML", "CSS", "JavaScript", "Python", "Node.js"],
   currentFocus: "Building & Learning",
   funFact: "I can code for hours and forget about time!",
-  goals: [
-    "Master full-stack development",
-    "Build innovative projects",
-    "Share knowledge with others"
-  ],
   portfolio: "Coming Not So Soon!"
 };
 ```
