@@ -222,7 +222,7 @@ const sudarshanInfo = {
     
 <div align="center">
   <h3>🌟 Featured Projects 🌟</h3>
-  <p>Stay tuned for exciting projects that I'll be working on soon!</p>
+  <p>Do Not stay tuned for exciting projects that I'll be working on soon!</p>
   
   <p align="center">
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" />
@@ -299,17 +299,16 @@ const sudarshanInfo = {
   <h3>📈 Growth Mindset 📈</h3>
   <p>
     I approach challenges with a growth mindset, seeing each obstacle as an opportunity to learn and improve.
-    The tech world is constantly evolving, and I'm committed to evolving with it.
   </p>
   
   <h3>🎯 Future Goals 🎯</h3>
   <p>
     <ul align="center" style="list-style-position: inside;">
       <li>Deepen my knowledge of web development frameworks</li>
-      <li>Explore mobile app development</li>
-      <li>Learn about cloud computing and DevOps</li>
+      <li>Deepen my knowledge of Trading Stocks market</li>
+      <li>Learn about Law</li>
       <li>Contribute to open-source projects</li>
-      <li>Build a portfolio of meaningful projects</li>
+      <li>Helping everyone</li>
     </ul>
   </p>
   
@@ -332,7 +331,7 @@ const sudarshanInfo = {
     </p>
     
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jydrvbvh7sgwi6i5cxpn2lyrja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vrd3hrrdvzkkztnf6q6gv2mjou&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
 </p>
 
 <p align="center">
